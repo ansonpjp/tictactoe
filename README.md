@@ -1,9 +1,3 @@
-<!-- 1-test-1 -->
-<!-- 1-test-2 -->
-<!-- 1-test-3 -->
-<!-- 1-test-4 -->
-<!-- 1-test-5 -->
-<!-- 1-test-6 -->
 # Getting Started with Create React App
 <!-- 2-test change 2  -->
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
